@@ -15,8 +15,8 @@ This folder contains asset folders that can be served using github.io.  To turn 
 
 Your .env should look like this:
 CLOUDINARY_URL=cloudinary://API_KEY:API_SECRET@CLOUD_NAME
-API_SECRET=0gfBB6thMQGvjos7Eo-tNjLcyVk
-ASSET_SOURCE_BASE="https://<github account>.github.io/advanced-concepts"
+API_SECRET=<api secret>
+ASSET_SOURCE_BASE=“https://<github account>.github.io/advanced-concepts
 
 To use the scripts for exercises on Auto Upload management API's 
 1. `npm install`
